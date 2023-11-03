@@ -24,9 +24,9 @@ http://localhost:8080/futebol
 3. Você verá informações sobre os jogadores e a quantidade de gols marcados.
 
 Tecnologias Utilizadas
-    Java
-    Servlets
-    JSP (JavaServer Pages)
+  - Java
+  - Servlets
+  - JSP (JavaServer Pages)
 
 
 Autor
